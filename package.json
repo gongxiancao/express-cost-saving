@@ -1,14 +1,14 @@
 {
-  "name": "express-cost-saving",
+  "name": "package-saving",
   "version": "1.0.0",
-  "description": "Given different items sold in different e-shops, and the items I want to buy, output the order (shops and items to buy from it) of which the express cost is minimum.",
+  "description": "Given different items sold in different e-shops, and the items I want to buy, output the order (shops and items to buy from it) of which the package/express cost is minimum.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gongxiancao/express-cost-saving.git"
+    "url": "git+https://github.com/gongxiancao/package-saving.git"
   },
   "keywords": [
     "algorithm"
@@ -16,9 +16,9 @@
   "author": "GongXian Cao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gongxiancao/express-cost-saving/issues"
+    "url": "https://github.com/gongxiancao/package-saving/issues"
   },
-  "homepage": "https://github.com/gongxiancao/express-cost-saving#readme",
+  "homepage": "https://github.com/gongxiancao/package-saving#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "gulp": "^3.9.1",
