@@ -1,0 +1,30 @@
+{
+  "name": "express-cost-saving",
+  "version": "1.0.0",
+  "description": "Given different items sold in different e-shops, and the items I want to buy, output the order (shops and items to buy from it) of which the express cost is minimum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gongxiancao/express-cost-saving.git"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "author": "GongXian Cao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gongxiancao/express-cost-saving/issues"
+  },
+  "homepage": "https://github.com/gongxiancao/express-cost-saving#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-mocha": "^2.2.0",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  }
+}
